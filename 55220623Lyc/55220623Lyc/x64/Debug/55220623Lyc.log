@@ -1,0 +1,16 @@
+﻿  chat.cpp
+E:\VSSSSS\55220623Lyc\55220623Lyc\chat.cpp(89,56): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\VSSSSS\55220623Lyc\55220623Lyc\chat.cpp(95,16): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+E:\VSSSSS\55220623Lyc\55220623Lyc\chat.cpp(95,18): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+E:\VSSSSS\55220623Lyc\55220623Lyc\chat.cpp(388,41): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\VSSSSS\55220623Lyc\55220623Lyc\chat.cpp(471,41): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\VSSSSS\55220623Lyc\55220623Lyc\chat.cpp(554,41): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  User_Information.cpp
+E:\VSSSSS\55220623Lyc\55220623Lyc\User_Information.cpp(400,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\VSSSSS\55220623Lyc\55220623Lyc\User_Information.cpp(426,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\VSSSSS\55220623Lyc\55220623Lyc\User_Information.cpp(723,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\VSSSSS\55220623Lyc\55220623Lyc\User_Information.cpp(749,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\VSSSSS\55220623Lyc\55220623Lyc\User_Information.cpp(1059,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\VSSSSS\55220623Lyc\55220623Lyc\User_Information.cpp(1085,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  55220623Lyc.vcxproj -> E:\VSSSSS\55220623Lyc\x64\Debug\Client.exe
